@@ -1,6 +1,8 @@
 # weather
 
-A weather application using Flutter.In this project API was used too.
+A weather application using Flutter.
+
+This is a basic app in which project API was used too.
 
 ## Getting Started
 
